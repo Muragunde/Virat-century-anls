@@ -8,4 +8,4 @@ Dashboard : https://github.com/Muragunde/Virat-century-anls/blob/main/virat.pbix
 
 Dashboard Screenshot :https://github.com/Muragunde/Virat-century-anls/blob/main/virat%20Dashboard.jpeg
 
-cleaning the Data using Python: 
+cleaning the Data using Python: https://github.com/Muragunde/Virat-century-anls/blob/main/Virat_cleaned_data_set%20.ipynb
