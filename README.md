@@ -4,7 +4,7 @@ This project demonstrates the complete Data Analyst process, from raw data gathe
 
 csv file : https://github.com/Muragunde/Virat-century-anls/blob/main/virat.csv
 
-Dashboard : 
+Dashboard : https://github.com/Muragunde/Virat-century-anls/blob/main/virat.pbix
 
 Dashboard Screenshot :
 
